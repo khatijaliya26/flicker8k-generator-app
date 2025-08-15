@@ -1,0 +1,7 @@
+torch==2.6.0
+diffusers
+transformers
+accelerate
+peft
+gradio
+xformers
